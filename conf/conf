@@ -1,0 +1,13 @@
+[outhttp]
+addr=192.168.2.22:18080
+[innerhttp]
+addr=192.168.2.22:8080
+addr1=192.168.2.43:18080
+[outwebsocket]
+addr=192.168.2.22:18085
+[innerwebsocket]
+addr=192.168.2.22:18082
+[queue]
+addr=192.168.2.22:16379
+[log]
+path=./
